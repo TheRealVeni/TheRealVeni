@@ -25,5 +25,24 @@ Facts Alex;
   <img src="https://img.shields.io/github/followers/TheRealVeni?style=flat-square&label=Follow" alt="followers" />
 </p>
 
-🤝 **Connect with Me**
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealVeni)
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,c,c++,js,py,sql" />
+
+<br><br>
+
+**Web & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,supabase,postgresql" />
+
+<br><br>
+
+**Tools & Platforms**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
