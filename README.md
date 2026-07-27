@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Alex. 👋
 
-<!--
-**TheRealVeni/TheRealVeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪪 **About Me**
+ECE @ NTUA
+Quant Research - Chip Design - SWE
 
-Here are some ideas to get you started:
+![](./profile-3d-contrib/profile-night-view.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TheRealVeni.TheRealVeni" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/TheRealVeni?style=flat-square&label=Follow" alt="followers" />
+</p>
+
+🤝 **Connect with Me**
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealVeni)
+[![](https://img.shields.io/badge/Personal_Website-007ACC?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
