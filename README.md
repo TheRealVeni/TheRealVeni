@@ -31,7 +31,7 @@ Facts Alex;
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,c,c++,js,ts,py" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,py" />
 
 <br><br>
 
