@@ -37,12 +37,12 @@ Facts Alex;
 
 **Web & Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,supabase,postgresql" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,supabase,postgresql,mongodb" />
 
 <br><br>
 
 **Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,matlab" />
 
 </div>
