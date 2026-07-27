@@ -11,10 +11,9 @@ class Me {
 public:
 
 Facts Alex;
+
     Alex.name        = "Alexander Venizelos";
-    
     Alex.university  = "NTUA";
-    
     Alex.degree      = "MSc Electrical and Computer Engineering";
     
 };
