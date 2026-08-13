@@ -1,23 +1,5 @@
 ### Hi there, I'm Alex 👋
 
-🪪 **About Me**
-
-struct Facts {
-string name, university, degree;
-};
-
-class Me {
-
-public:
-
-Facts Alex;
-
-    Alex.name        = "Alexander Venizelos";
-    Alex.university  = "NTUA";
-    Alex.degree      = "MSc Electrical and Computer Engineering";
-    
-};
-
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 <p align="center">
