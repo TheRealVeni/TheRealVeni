@@ -13,7 +13,7 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,py" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js,py,ocaml" />
 
 <br><br>
 
