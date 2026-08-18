@@ -1,6 +1,5 @@
 <p align="center">
 </p>
-Tech Stack
 
 <div align="center">
 
