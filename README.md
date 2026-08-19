@@ -5,7 +5,7 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,py,ocaml" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,py,ocaml" />
 
 <br><br>
 
